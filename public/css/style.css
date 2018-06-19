@@ -1,0 +1,29 @@
+nav{
+	margin:20px 0 0;
+}
+
+.required{
+	color:red;
+}
+
+.game-room{
+	margin-top:15px;
+}
+
+.word-to-guess{
+	font-size:40px;
+	letter-spacing: 10px;
+	padding:40px 20px;
+}
+
+.letters .btn{
+	border-radius:0;
+}
+
+.user-stats li:first-letter{
+	text-transform: capitalize;
+}
+
+.drawing img{
+	max-width:200px;
+}

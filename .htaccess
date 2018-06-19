@@ -1,0 +1,4 @@
+RewriteEngine on
+
+RewriteRule ^$ /hangman/public/ [L]
+RewriteRule (.*) /hangman/public/$1 [L]
